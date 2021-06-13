@@ -1,0 +1,159 @@
+
+.header{
+    
+    height: 250px;
+    background-color: #72C2A4;
+    border-color: #707070;
+    border-radius:  25px 25px 25px 25px;
+
+}
+.header p{
+    font-size: 90px;
+    margin-right: 100px;
+    float: right;
+    margin-top: 30px;
+    
+
+}
+.header img{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+    float: left;
+    border-radius: 50px;
+}
+
+ul {
+   list-style-type: none; 
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   width: 98%;
+   position: absolute;
+   float: right;
+}
+
+li {
+    float: right;
+    margin-top: 10px;
+}
+li a{
+    width: 80px;
+    display: block;
+    color: #E76500;
+    background-color: #C4C4C4;
+    border-color: #707070;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    margin-right: 5px;
+
+}
+li a:hover{
+    background-color: white;
+}
+.icon-user img{
+    width:  45px;
+    height: 45px;
+    border-radius: 50px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+
+}
+.icon-shop img{
+    width: 45px;
+    height:  45px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.btn{
+    width: 112px;
+    color: #E76500;
+    background-color: #C4C4C4;
+    border-color: #ada9a9;
+    border-radius:10px 10px 10px 10px;
+    height: 30px;
+    font-size: 24px;
+}
+
+.submit{
+    width: 98px;
+    height: 40px;
+    color: #72C2A4;
+    background-color: #804900;
+    border-color: #707070;
+    border-radius: 50px;
+
+
+}
+.form  {
+    float: none;
+    width: 40%;
+    border-color: #707070;
+    border-radius:  25px 25px 25px 25px;
+    margin-left: 30%;
+}
+.email{
+    border-radius: 15px 15px 15px 15px ;
+    height: 30px;
+    text-align: left;
+    padding: 5px;
+    font-size: 20px;
+    opacity: 0.9;
+}
+
+.search-box{
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.search-box input{
+    width: 300px;
+    height: 30px;
+    margin-top: 0;
+    float: left;
+    text-align: right;
+
+}
+.search-btn {
+    color: dimgrey;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+   
+}
+.search-btn:hover {
+    background-color: orange;
+}
+.footer{
+	width:100%;
+	background-color:#4A7D74;
+	bottom:0;
+	float:right;
+	color: ivory;
+    border-color: #707070;
+    border-radius: 10px 10px 0px 0px;
+
+}
+footer p{
+    margin-right: 40px;
+    margin-top: 50px;
+    font-size: 40px;
+}
+.footer-img img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 50px;
+}
