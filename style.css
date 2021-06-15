@@ -1,6 +1,5 @@
 
 .header{
-    
     height: 250px;
     background-color: #72C2A4;
     border-color: #707070;
@@ -80,32 +79,6 @@ li a:hover{
     font-size: 24px;
 }
 
-.submit{
-    width: 98px;
-    height: 40px;
-    color: #72C2A4;
-    background-color: #804900;
-    border-color: #707070;
-    border-radius: 50px;
-
-
-}
-.form  {
-    float: none;
-    width: 40%;
-    border-color: #707070;
-    border-radius:  25px 25px 25px 25px;
-    margin-left: 30%;
-}
-.email{
-    border-radius: 15px 15px 15px 15px ;
-    height: 30px;
-    text-align: left;
-    padding: 5px;
-    font-size: 20px;
-    opacity: 0.9;
-}
-
 .search-box{
     float: left;
     margin-left: 40px;
@@ -135,13 +108,14 @@ li a:hover{
     background-color: orange;
 }
 .footer{
-	width:100%;
+	width:99%;
 	background-color:#4A7D74;
 	bottom:0;
 	float:right;
 	color: ivory;
     border-color: #707070;
-    border-radius: 10px 10px 0px 0px;
+    border-radius: 10px;
+    
 
 }
 footer p{
@@ -156,4 +130,74 @@ footer p{
     float: left;
     margin-left: 40px;
     margin-top: 50px;
+}
+.box1 {
+    background-color: white;
+    border-color: dimgray;
+    border-style: solid;
+    height: 300px;
+    width: 95%;
+    margin-left: 50px;
+    margin-top: 5px;
+    height: 400px;
+    padding-bottom: 10px;
+
+
+}
+.box2 {
+    width: 260px;
+    height: 260px;
+    background-color: #F9C47E;
+    float: right;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 0;
+    
+    
+}
+.box3 {
+    width: 220px;
+    height: 135px;
+    background-color: white;
+    margin-left: 15px;
+    box-shadow: 2px 2px #aaaaaa;
+
+}
+.box4 {
+    width: 150px;
+    height: 50px;
+    background-color: white;
+    float: right;
+    margin-top: 50px;
+    margin-right: 25px;
+    box-shadow: 2px 2px 2px #aaaaaa;
+   
+    
+}
+.icon-shop-plus img{
+    width:  45px;
+    height: 45px;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+.box1 p{
+    font-size: 38px;
+    color: #DB5202;
+    border-color: #6F5948;
+    text-align: right;
+    margin-top: 0;
+    padding-top: 5px;
+    padding-right: 30px;
+    margin-bottom: 5px;
+}
+.more img{
+    width:  45px;
+    height: 45px;
+    border-radius: 50px;
+    margin-left: 70px;
+    margin-top: 100px;
 }
