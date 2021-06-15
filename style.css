@@ -91,7 +91,7 @@ li a:hover{
 
 }
 .form1  {
-    float: none;
+    float: right;
     width: 30%;
     border-color: #707070;
     border-radius:  25px 25px 25px 25px;
@@ -102,11 +102,12 @@ li a:hover{
 
 
 .box1 {
+	float: left;
     background-color: white;
     border-color: dimgray;
     border-style: solid;
 	 border-radius:  25px 25px 25px 25px;
-    height: 300px;
+    height: 250px;
     width: 70%;
     margin-left: 50px;
     margin-top: 5px;
@@ -117,7 +118,7 @@ li a:hover{
 }
 .box2 {
     width: 160px;
-    height: 260px;
+    height: 220px;
     background-color: #F9C47E;
     float: right;
     padding-top: 20px;
@@ -130,7 +131,7 @@ li a:hover{
 }
 .box3 {
     width: 120px;
-    height: 135px;
+    height: 100px;
     background-color: white;
     margin-left: 15px;
     box-shadow: 2px 2px #aaaaaa;
@@ -138,7 +139,7 @@ li a:hover{
 }
 .box4 {
     width: 90px;
-    height: 50px;
+    height: 40px;
     background-color: white;
     float: right;
     margin-top: 50px;
