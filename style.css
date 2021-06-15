@@ -240,7 +240,7 @@ footer p{
     margin-top: 50px;
 }
 
-.edit-filter-modal hidden{
+.form1 edit-filter-modal hidden{
 	 width: 80px;
     display: block;
     color: #E76500;
@@ -254,6 +254,6 @@ footer p{
 	font-size: 15px;
 	font-color: #804900;
 }
-.edit-filter-modal hidden:hover{
+.form1 edit-filter-modal hidden:hover{
     background-color: white;
 }
