@@ -92,10 +92,13 @@ li a:hover{
 }
 .form1  {
     float: none;
-    width: 30%;
+margin-right: 100px;
+	 width: 200px;
+    height: 200px;
+   
     border-color: #707070;
     border-radius:  10px 10px 10px 10px;
-    margin-left: 90%;
+   
 }
 .form2  {
     float: none;
