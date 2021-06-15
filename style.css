@@ -95,8 +95,6 @@ li a:hover{
     width: 20%;
     border-color: #707070;
     border-radius:  25px 25px 25px 25px;
-    margin-left: 30%;
-	
 }
 
 
@@ -110,15 +108,14 @@ li a:hover{
     height: 250px;
     width: 70%;
     margin-left: 50px;
-    margin-top: 5px;
     height: 400px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 
 
 }
 .box2 {
 	
-    width: 160px;
+    width: 200px;
     height: 220px;
     background-color: #F9C47E;
     float: right;
