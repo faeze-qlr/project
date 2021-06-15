@@ -157,6 +157,14 @@ footer p{
     margin-left: 40px;
     margin-top: 50px;
 }
+.icon-shop-plus img{
+    width: 45px;
+    height:  45px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+
+}
 
 edit-filter-modal hidden{
  width: 80px;
