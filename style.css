@@ -150,8 +150,8 @@ li a:hover{
     
 }
 .icon-shop-plus img{
-    width:  20px;
-    height: 20px;
+    width:  30px;
+    height: 30px;
     border-radius: 50px;
     margin-top: 50px;
     margin-left: 20px;
@@ -229,4 +229,20 @@ footer p{
     float: left;
     margin-left: 40px;
     margin-top: 50px;
+}
+
+.edit-filter-modal hidden{
+	 width: 80px;
+    display: block;
+    color: #E76500;
+    background-color: #C4C4C4;
+    border-color: #707070;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    margin-right: 5px;
+}
+.edit-filter-modal hidden:hover{
+    background-color: white;
 }
