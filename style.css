@@ -124,7 +124,7 @@ li a:hover{
     width: 230px;
     height: 220px;
 	 border-style: solid;
-	border-width: medium;
+	border-width: thin;
 	border-color: dimgray;
     background-color: #F9C47E;
     float: right;
@@ -238,6 +238,16 @@ footer p{
 }
 
 .form1 edit-filter-modal hidden option{
+	  font-size: 60px;
+    color: #DB5202;
+    border-color: #6F5948;
+    text-align: right;
+    margin-top: 0;
+    padding-top: 5px;
+    padding-right: 30px;
+    margin-bottom: 10px;
+}
+.edit-filter-modal hidden option{
 	  font-size: 60px;
     color: #DB5202;
     border-color: #6F5948;
