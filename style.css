@@ -64,7 +64,8 @@ li a:hover{
 
 }
 .loading img{
-	 width:  80%;
+	float: center;
+	 width:  85%;
     height: 20px;
     border-radius: 50px;
     margin-top: 30px;
@@ -255,10 +256,11 @@ footer p{
     margin-bottom: 10px;
 }
 .edit-filter-modal-hidden select{
-	 width: 80px;
+	 float: center;
+	 width:  85%;
     display: block;
     color: #E76500;
-    background-color: #C4C4C4;
+    background-color: #FFFFFF;
     border-color: #707070;
     border-radius: 10px;
     text-decoration: none;
