@@ -254,7 +254,7 @@ footer p{
     margin-top: 0;
     padding-top: 5px;
     padding-right: 30px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 	font-weight: bold;
 }
 .edit-filter-modal-hidden select{
@@ -265,11 +265,13 @@ footer p{
     background-color: #FFFFFF;
     border-color: #707070;
     border-radius: 10px;
+	border-shadow: 2px 2px #aaaaaa;
     text-decoration: none;
     text-align: center;
     padding: 11px;
     margin-right: 10px;
 	font-weight: bold;
+	
 }
 
 .form1 p{
