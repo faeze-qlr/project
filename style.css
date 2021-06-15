@@ -63,6 +63,13 @@ li a:hover{
     margin-top: 5px;
 
 }
+.loading img{
+	 width: 150px;
+    height:  45px;
+    float: center;
+    margin-left: 5px;
+    margin-top: 5px;
+}
 .icon-shop img{
     width: 45px;
     height:  45px;
