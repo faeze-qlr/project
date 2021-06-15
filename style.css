@@ -116,12 +116,11 @@ li a:hover{
 }
 .box2 {
 	
-    width: 200px;
+    width: 230px;
     height: 220px;
     background-color: #F9C47E;
     float: right;
     padding-top: 20px;
-    padding-left: 10px;
     margin-left: 15px;
     margin-right: 15px;
     margin-top: 0;
@@ -129,10 +128,10 @@ li a:hover{
     
 }
 .box3 {
-    width: 175px;
+    width: 180px;
     height: 130px;
     background-color: white;
-    margin-left: 15px;
+    margin-left: 10px;
     box-shadow: 2px 2px #aaaaaa;
 
 }
@@ -142,7 +141,6 @@ li a:hover{
     background-color: white;
     float: right;
     margin-top: 50px;
-    margin-right: 25px;
     box-shadow: 2px 2px 2px #aaaaaa;
    
     
@@ -156,14 +154,14 @@ li a:hover{
 
 }
 .box1 p{
-    font-size: 44px;
+    font-size: 50px;
     color: #DB5202;
     border-color: #6F5948;
     text-align: right;
     margin-top: 0;
     padding-top: 5px;
     padding-right: 30px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 
