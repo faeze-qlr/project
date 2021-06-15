@@ -108,7 +108,6 @@ li a:hover{
     height: 250px;
     width: 70%;
     margin-left: 50px;
-    height: 400px;
     padding-bottom: 20px;
 
 
@@ -128,7 +127,7 @@ li a:hover{
     
 }
 .box3 {
-    width: 120px;
+    width: 175px;
     height: 100px;
     background-color: white;
     margin-left: 15px;
@@ -136,7 +135,7 @@ li a:hover{
 
 }
 .box4 {
-    width: 90px;
+    width: 120px;
     height: 40px;
     background-color: white;
     float: right;
