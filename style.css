@@ -157,3 +157,15 @@ footer p{
     margin-left: 40px;
     margin-top: 50px;
 }
+
+edit-filter-modal hidden{
+    color: dimgrey;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
