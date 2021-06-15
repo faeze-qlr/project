@@ -64,14 +64,11 @@ li a:hover{
 
 }
 .loading img{
-	 width: 100px;
-    height:  20px;
-    float: center;
-    margin-left: 5px;
-    margin-top: 5px;
-	padding-top: 5px;
-    padding-right: 30px;
-    margin-bottom: 10px;
+	 width:  80%;
+    height: 20px;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 20px;
 }
 .icon-shop img{
     width: 45px;
@@ -258,14 +255,16 @@ footer p{
     margin-bottom: 10px;
 }
 .edit-filter-modal hidden select{
-	  font-size: 60px;
-    color: #DB5202;
-    border-color: #6F5948;
-    text-align: right;
-    margin-top: 0;
-    padding-top: 5px;
-    padding-right: 30px;
-    margin-bottom: 10px;
+	 width: 80px;
+    display: block;
+    color: #E76500;
+    background-color: #C4C4C4;
+    border-color: #707070;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    margin-right: 5px;
 }
 
 .form1 p{
