@@ -94,7 +94,6 @@ li a:hover{
     float: none;
     width: 30%;
     border-color: #707070;
-	border-style: solid;
     border-radius:  25px 25px 25px 25px;
     margin-left: 30%;
 	
@@ -104,7 +103,6 @@ li a:hover{
 .box1 {
     background-color: white;
     border-color: dimgray;
-    border-style: solid;
 	border-radius:  25px 25px 25px 25px;
     height: 300px;
     width: 70%;
