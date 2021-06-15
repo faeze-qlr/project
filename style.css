@@ -111,7 +111,7 @@ li a:hover{
 	border-width: medium;
     border-style: solid;
 	 border-radius:  0px 0px 0px 0px;
-    height: 350px;
+    height: 340px;
     width: 70%;
     margin-left: 50px;
 	margin-bottom: 50px;
@@ -237,23 +237,17 @@ footer p{
     margin-top: 50px;
 }
 
-.form1 edit-filter-modal hidden{
-	 width: 80px;
-    display: block;
-    color: #E76500;
-    background-color: #C4C4C4;
-    border-color: #707070;
-    border-radius: 10px;
-    text-decoration: none;
-    text-align: center;
-    padding: 5px;
-    margin-right: 5px;
-	font-size: 15px;
-	font-color: #804900;
+.form1 edit-filter-modal hidden option{
+	  font-size: 60px;
+    color: #DB5202;
+    border-color: #6F5948;
+    text-align: right;
+    margin-top: 0;
+    padding-top: 5px;
+    padding-right: 30px;
+    margin-bottom: 10px;
 }
-.form1 edit-filter-modal hidden:hover{
-    background-color: white;
-}
+
 .form1 p{
 	  font-size: 60px;
     color: #DB5202;
