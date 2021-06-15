@@ -254,7 +254,7 @@ footer p{
 .form1 edit-filter-modal hidden:hover{
     background-color: white;
 }
-.form1 legend{
+.form1 p{
 	  font-size: 60px;
     color: #DB5202;
     border-color: #6F5948;
