@@ -173,7 +173,7 @@ li a:hover{
 
 }
 .box1 p{
-    font-size: 60px;
+    font-size: 80px;
     color: #DB5202;
     border-color: #6F5948;
     text-align: right;
@@ -267,13 +267,13 @@ footer p{
     border-radius: 10px;
     text-decoration: none;
     text-align: center;
-    padding: 13px;
+    padding: 11px;
     margin-right: 10px;
 	font-weight: bold;
 }
 
 .form1 p{
-	  font-size: 60px;
+	  font-size: 80px;
     color: #DB5202;
     border-color: #6F5948;
     text-align: right;
