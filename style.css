@@ -240,6 +240,8 @@ footer p{
     text-align: center;
     padding: 5px;
     margin-right: 5px;
+	font-size: 15px;
+	font-color: #804900;
 }
 .edit-filter-modal hidden:hover{
     background-color: white;
