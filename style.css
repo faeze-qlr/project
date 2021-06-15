@@ -247,8 +247,8 @@ footer p{
 }
 
 .edit-filter-modal-hidden select option{
-	  font-size: 60px;
-    color: #DB5202;
+	  font-size: 40px;
+    color: #804900;
     border-color: #6F5948;
     text-align: right;
     margin-top: 0;
