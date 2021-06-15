@@ -64,11 +64,14 @@ li a:hover{
 
 }
 .loading img{
-	 width: 150px;
-    height:  45px;
+	 width: 100px;
+    height:  20px;
     float: center;
     margin-left: 5px;
     margin-top: 5px;
+	padding-top: 5px;
+    padding-right: 30px;
+    margin-bottom: 10px;
 }
 .icon-shop img{
     width: 45px;
@@ -244,7 +247,7 @@ footer p{
     margin-top: 50px;
 }
 
-.form1 edit-filter-modal hidden select{
+.edit-filter-modal hidden select option{
 	  font-size: 60px;
     color: #DB5202;
     border-color: #6F5948;
