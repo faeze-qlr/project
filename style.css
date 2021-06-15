@@ -94,11 +94,15 @@ li a:hover{
     float: right;
     width: 25%;
 	height: 350px;
+	border-width: thin;
 	 border-style: solid;
     border-color: #707070;
     border-radius:  25px 25px 25px 25px;
 	font-size: 15px;
 	font-color: #804900;
+	 margin-left: 50px;
+	margin-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 
@@ -107,6 +111,7 @@ li a:hover{
 	float: left;
     background-color: white;
     border-color: dimgray;
+	border-width: thin;
     border-style: solid;
 	 border-radius:  0px 0px 0px 0px;
     height: 350px;
@@ -122,6 +127,8 @@ li a:hover{
     width: 230px;
     height: 220px;
 	 border-style: solid;
+	border-width: thin;
+	border-color: dimgray;
     background-color: #F9C47E;
     float: right;
     padding-top: 20px;
@@ -160,7 +167,7 @@ li a:hover{
 
 }
 .box1 p{
-    font-size: 50px;
+    font-size: 60px;
     color: #DB5202;
     border-color: #6F5948;
     text-align: right;
