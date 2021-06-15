@@ -237,7 +237,7 @@ footer p{
     margin-top: 50px;
 }
 
-.form1 edit-filter-modal hidden option{
+.form1 edit-filter-modal hidden select{
 	  font-size: 60px;
     color: #DB5202;
     border-color: #6F5948;
@@ -247,7 +247,7 @@ footer p{
     padding-right: 30px;
     margin-bottom: 10px;
 }
-.edit-filter-modal hidden option{
+.edit-filter-modal hidden select{
 	  font-size: 60px;
     color: #DB5202;
     border-color: #6F5948;
