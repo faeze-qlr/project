@@ -236,6 +236,7 @@ footer p{
     margin-right: 40px;
     margin-top: 50px;
     font-size: 40px;
+	font-family: IRDast Nevis;
 }
 .footer-img img{
     width: 70px;
@@ -247,7 +248,7 @@ footer p{
 }
 
 .edit-filter-modal-hidden select option{
-	  font-size: 40px;
+	  font-size: 20px;
     color: #804900;
     border-color: #6F5948;
     text-align: right;
