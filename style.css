@@ -92,7 +92,7 @@ li a:hover{
 }
 .form1  {
     float: right;
-    width: 25%;
+    width: 23%;
 	height: 350px;
 	border-width: medium;
 	 border-style: solid;
@@ -253,4 +253,14 @@ footer p{
 }
 .form1 edit-filter-modal hidden:hover{
     background-color: white;
+}
+.form1 legend{
+	  font-size: 60px;
+    color: #DB5202;
+    border-color: #6F5948;
+    text-align: right;
+    margin-top: 0;
+    padding-top: 5px;
+    padding-right: 30px;
+    margin-bottom: 10px;
 }
