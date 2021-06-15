@@ -92,28 +92,28 @@ li a:hover{
 }
 .form1  {
     float: none;
-    width: 40%;
+    width: 30%;
+    border-color: #707070;
+    border-radius:  10px 10px 10px 10px;
+    margin-left: 90%;
+}
+.form2  {
+    float: none;
+    width: 60%;
     border-color: #707070;
     border-radius:  10px 10px 10px 10px;
     margin-left: 10%;
 }
-.form2  {
-    float: none;
-    width: 40%;
-    border-color: #707070;
-    border-radius:  25px 25px 25px 25px;
-    margin-left: 30%;
-}
 .form3  {
     float: none;
-    width: 40%;
+    width: 20%;
     border-color: #707070;
     border-radius:  25px 25px 25px 25px;
     margin-left: 30%;
 }
 .form4  {
     float: none;
-    width: 40%;
+    width: 7%;
     border-color: #707070;
     border-radius:  25px 25px 25px 25px;
     margin-left: 30%;
